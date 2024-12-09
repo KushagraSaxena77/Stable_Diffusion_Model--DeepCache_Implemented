@@ -1,5 +1,4 @@
-# SRM_23GAI30SRM_DeepCache_Implementation
-SRIB-PRISM Program
+# DeepCache_Implementation In Stable Diffusion Model
 
 ## How to run the Code
 
