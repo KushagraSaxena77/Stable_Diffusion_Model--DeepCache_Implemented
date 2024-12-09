@@ -1,4 +1,4 @@
-# DeepCache_Implementation In Stable Diffusion Model
+# DeepCache Implementation In Stable Diffusion Model
 
 ## How to run the Code
 
